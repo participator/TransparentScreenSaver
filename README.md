@@ -1,5 +1,5 @@
 # TransparentScreenSaver
-A Windows screensaver that is transparent and allows the user to view the desktop without leaving the computer unprotected.
+A Windows screensaver that is transparent and allows the user to view the desktop without leaving the computer unlocked (unprotected).
 
 ### Notes:
 - Works in Preview and Test (configure mode in code) mode
